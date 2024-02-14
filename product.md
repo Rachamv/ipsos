@@ -75,8 +75,8 @@
 
 | Product                                    | Description                         | Category     | New Price | Old Price |
 |--------------------------------------------|-------------------------------------|--------------|-----------|-----------|
-| Astymin Syrup 200ml                       |                                     | NutriPharama|           |           |
-| EMVITE MULTIVITAMIN SYRUP 100ML           |                                     | NutriPharama|           |           |
+| Astymin Syrup 200ml                       |                                     | NutriPharama|           |  2800         |
+| EMVITE MULTIVITAMIN SYRUP 100ML           |                                     | NutriPharama|           |   1000        |
 | LIQUID IRON BOTTLE 200ML                  |                                     | NutriPharama|           |           |
 | BUNTO MULTIVITAMINS AND MINERAL 30 CAPSULES|                                   | NutriPharama|           |           |
 | LIQUID IRON BOTTLE 200ML                  |                                     | NutriPharama|           |           |
