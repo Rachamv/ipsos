@@ -1,7 +1,10 @@
 | Product                                             | Description                         | Category | New Price | Old Price |
 |-----------------------------------------------------|-------------------------------------|----------|-----------|-----------|
+| BEBEM MIDI SIZE3 X45PCS              |      | DIAPER   |           |           |
+| MOLFIX 3MIDI ECONOMY(4-9KG)(X3)                |      | DIAPER   |           |           |
 | MOLFIX JUMBO 5 JUNIOR (11-25KG) (X4)               |      | DIAPER   |           |           |
 | KISS KIDS 3-6KG 9PCS                                |        | DIAPER   |           |           |
+| KISS KIDS SUPER DRY JUMBO 2 100PCS                                 |        | DIAPER   |           |           |
 | KISS KIDS SUPER DRY BABY DIAPERS 3 4-9KG X 9PCS    |        | DIAPER   |           |           |
 
 | Product                               | Description                       | Category | New Price | Old Price |
