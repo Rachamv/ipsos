@@ -9,6 +9,160 @@
 | 6 | Iya Alaje store          | 29, Irepodun, Irepodun, Akiode, Ikeja, Ikeja            | Iya Alaje        | 7034724971    | 2go
 | 7 | Joseph store             | 5 odozi street ojodu berger                             | Mr Uzor Joseph   | 9032779909    
 
+# Small Grocery
+| S/N | Store Name             | Address                                     | Contact            |
+|-----|------------------------|---------------------------------------------|--------------------|
+| 1   | Ajike ventures         | RA 6, bankole street isheri berger         | Mrs Ademisoye :(08055329490) |
+| 2   | Alhaja M.A store       | RA 14, ogunriver isheri berger             | Alhaja M.A ojikutu :(08143140348) |
+| 3   | Angel store            | RA 2, Agbedina street isheri berger        | Mrs Issac Angela :(07035501461) |
+| 4   | BIWAD STORE            | RA 7, karimu laka street egbeda            | Mrs ose :(07086491998) |
+| 5   | ARINOLAOLUWA MINI MART| 2, Oba Akran AAvenue, Ikeja                | Arinola :(7067938157) |
+| 6   | God's power store      | RA 4A bankole street isheri berger         | Mrs taiwo :(08188445958) |
+| 7   | Mercy Ade store        | 12, Odozi, ojodu berger Ikeja              | Mrs Adetola :(7051672751) |
+| 8   | God is able store      | Shop 3 bt 102, 34rd gowon estate egbeda    | Mrs fayemi :(8064221409) |
+| 9   | Joyce store            | 1, Zinsou, Zinsou, Zinsou, Ikeja            | Joyce Joyce :(8076247900) |
+| 10  | D young foodstuffs     | 15, ogunriver isheri berger                | Mercy:(8054873434) |
+| 11  | Daniel provision store | 28, Alhaji bakare street berger            | Mrs daniel:(08087203978) |
+| 12  | Iya Bose store         | 19, daramola street isheri berger          | Mrs bose:(07036086751) |
+| 13  | Mr Sunday store        | 3, Agbedina street isheri berger           | Emmanuel ugochukwu :(08000000000) |
+| 14  | Mrs Agabi stores       | Bt 101, 34 road k close gowon estate       | Mrs Agabi :(8057422667) |
+| 15  | Mummy David store      | 3 old Oko Oba Road Agege                   | Mum David:(8000000000) |
+| 16  | Mum wizzy store        | 11, Agbedina street isheri berger          | Mrs blessing onye :(09069274953) |
+| 17  | Mummy chidima store    | 1. Oluwanisola close off Agbedina street    | Mrs mercy samuel:(07084581617) |
+| 18  | Igwe store             | 5, Agbedina street isheri berger           | Chinedu john:(09079212729) |
+| 19  | Innoso enterprises     | 24, ogunriver isheri berger                | Nwoke sunday :(09092295682) |
+| 20  | Iya Alaje store        | 29, Irepodun, Irepodun, Akiode, Ikeja      | Iya Alaje lya Alaje :(7034724971) |
+| 21  | Iya mida               | 3, alanu street ojodu berger               | Iya mida :(07052851676) |
+| 22  | Ona Ara ventures       | 7, Agbedina street isheri berger           | Mrs ronke ifeoluwa Samuel:(08068411066) |
+| 23  | Olatunji store         | 46, Budland, Gramma sch, Ojodu, Ikeja      | Funmilayo :(09136895624) |
+| 24  | Mummy tina store       | 12, Karimu laka, Adjacent to alhaji razaq street | Ajokubi Ngozi :(8033312374) |
+
+ #House Shop/Kiosk
+ | S/N | Shop Name            | Address                                                | Contact          |
+| --- | -------------------- | ------------------------------------------------------ | ---------------- |
+| 1   | Abudukari store      | 3 Odozi street, Berger Abudukari, Ojodu Berger       | (8000000000)     |
+| 2   | Adamu kiosks         | Akinsanya, Akinsanya, Berger, Ikeja, Ikeja             | (8084868138)     |
+| 3   | Ebuka ventures       | 34 bashiru street ojodu berger, lagos                  | (8148055524)     |
+| 4   | Ibrahim kiosk        | 21 ishola bello, Usaini Ibrahim                        | (07061540277)    |
+| 5   | Iya Rita store       | 28 oremeta street ojodu, Mrs Obigbo Rita               | (8100667839)     |
+| 6   | Mallam Mohamodu      | 1, Olajide, Opp discovers grace for life church, Berger| (8000000000)     |
+| 7   | Abduramoh kiosks     | 16, Odozi, Opp zinsou str, Zinsou, Ikeja, Ikeja        | (8000000000)     |
+| 8   | Habeed kiosk         | 33, ishola bello akiode berger, Mr habeeb              | (08000000000)    |
+| 9   | Mohammed jibu kiosk  | 17, ishola bello akiode berger, Mohammed jibu          | (09067636158)    |
+| 10  | Mohammed yahusa kiosk| 24, magodo road isheri berger, Mohammed yahusa         | (07019417363)    |
+| 11  | Usman kiosks         | 15, Shobanire, Opp the truth house church, Berger      | (08052192938)    |
+| 12  | Usman kiosks         | 17, Odozi, Opp 22A Odozi, Odozi, Ikeja, Ikeja          | (09167151545)    |
+| 13  | Yahusa kiosk         | 21, Oremeta, Opp celestial church of Christ, Berger    | (8165263520)     |
+| 14  | Mummy faridat store  | 24/45, Shobanire, Shobanire, Berger, Ikeja, Ikeja      | (8020943085)     |
+| 15  | Oluwalogbo store     | 47, Oremeta Street Ojodu Berger, Turah                 | (8142662101)     |
+| 16  | Salisu store         | 45, Oremeta, Opp micheal's montessori sch, Berger     | (8000000000)     |
+
+# Larger Grocer
+| S/N | Store Name            | Address                               | Contact           |
+|-----|-----------------------|---------------------------------------|-------------------|
+| 1   | Emmadave store        | 8, olaniyi street egbeda              | Mrs oladapo       |
+| 2   | Folarin store         | 2, Alhaji rasaq street egbeda         | Mrs folarin Adizat|
+| 3   | Godown store          | 61 Ishola bello Ikeja Ishola Bello    | Mrs udeagha       |
+| 4   | Goodness and the mercy| 4 Sadiku street, oniwaya market agege| Mum Ruth          |
+| 5   | God first store       | 39 old oko oba road agege             | Mrs Laguju        |
+| 6   | Lady vera stores      | 1, alhaji bakare street berger        | Mrs Agwunobi      |
+| 7   | Dummy stores          | 38b ogunriver isheri berger           | Mrs halim         |
+| 8   | Iya Rita store        | 28 oremeta street ojodu               | Mrs Obigbo Rita   |
+| 9   | Mum Nife store        | 24, bankole street isheri berger      | Mrs abudu         |
+| 10  | ZANGO STORE           | 27, Illo street ipodo, Ikeja          | Mr sanni Auwal    |
+| 11  | Rich boss store       | 10. Alhaji bakare street berger       | Temitope          |
+| 12  | Sanucon store         | 13/15 karimu laka street egbeda       | Quadri salau      |
+| 13  | Tina stores           | 2, Agbedina street isheri berger      | Silver            |
+
+
+# Wholesaler
+| S/N | Store Name                               | Address                                                                | Contact             |
+|-----|------------------------------------------|------------------------------------------------------------------------|---------------------|
+|  1  | M.C onyebuchi ventures           | 48 Akerele str oniwaya market Agege Opp market street Agege            | Kelvin Kelvin :(7080824119) |
+|  2  | GREAT HOPE UNIVERSAL VENTURES  | Shop 14 Police carpark Agege Adjacent to isokoko police station Agege oniwaya Deborah Mrs deborah:(8027830346) 
+|  3  | SUNFEL STORES          | 3, Destiny avenue, Adj to reedeem Christian church of God, Alimosho, Egbeda, Alimosho Deby Sunfel:(8033464818) | 
+
+
+# Supermarkets/ Superettes
+| S/N | Name                       | Location                                     | Contact          |
+|-----|----------------------------|----------------------------------------------|------------------|
+| 1   | God's time ventures        | Block 99 Gowon estate H close egbeda        | Mrs joy peter    |
+|     |                            |                                              | (08136590697)    |
+| 2   | GRACIOUS SUPERMARKET       | 24, Ogunlana, Opp okla royal hotel, Alimosho, Egbeda | Mrs olabisi      |
+|     |                            |                                              | (8030448068)     |
+| 3   | Chidon stores              | 11, ishola bello akiode berger              | Mr chidon        |
+|     |                            |                                              | (09011443211)    |
+| 4   | Tina stores                | 2, Agbedina street isheri berger            | Silver           |
+|     |                            |                                              | (08147440280)    |
+| 5   | Rahuma store               | 12, ishola bello akiode                     | Mrs Fatima usain |
+|     |                            |                                              | (08086864773)    |
+
+# MAISHAYI
+| S/N | Store Name          | Address                                  | Contact           |
+|-----|---------------------|------------------------------------------|-------------------|
+| 1   | Janet maishayi      | 1, alhaji bakare street berger          | Mrs janet         |
+| 2   | Precious store      | 20 zinsou street, berger ikeja lagos    | Mrs Precious      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
