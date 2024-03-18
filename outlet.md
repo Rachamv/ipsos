@@ -1,3 +1,57 @@
+| Vendor ID | Vendor Name               | Address                                                    | Contact Person   | Phone         |
+|-----------|---------------------------|------------------------------------------------------------|------------------|---------------|
+| LAG2212315 | Chidon stores             | 11, ishola bello akiode berger                            | Mr chidon        | 09011443211   |
+| IKJ0129   | T & K store               | 35, Ishola bello, Ishola, Ishola, Ikeja                   | Mrs ogundowole  | 08164635783   |
+| IKJ0115   | Godown store              | 61 Ishola bello Ikeja Ishola Ishola Bello                 | Mrs udeagha      | 8037204935    |
+| LAG2212324 | Janet maishayi            | 1, alhaji bakare street berger                            | Mrs janet        | 08187995807   |
+| LAG2212328 | Rich boss store           | 10. Alhaji bakare street berger                           | Temitope         | 07035656846   |
+| LAG2212329 | Lady vera stores          | 1, alhaji bakare street berger                            | Mrs Agwunobi     | 08088336791   |
+| LAG2247897 | Iya Bose store            | 19, daramola street isheri berger                         | Mrs bose         | 07036086751   |
+| LAG2253295 | Mummy chidima store       | 1. Oluwanisola close off Agbedina street isheri berger    | Mrs mercy samuel | 07084581617   |
+| LAG2247898 | Ona Ara ventures          | 7, Agbedina street isheri berger                          | Mrs ronke ifeoluwa Samuel: | 08068411066 |
+| LAG2247899 | Mum wizzy store           | 11, Agbedina street isheri berger                         | Mrs blessing onye| 09069274953   |
+| LAG2247896 | Igwe store                | 5, Agbedina street isheri berger                          | Chinedu john     | 09079212729   |
+| LAG2212325 | Daniel provision store    | 28, Alhaji bakare street berger                           | Mrs daniel       | 08087203978   |
+| LAG2212321 | Mohammed jibu kiosk       | 17, ishola bello akiode berger                            | Mohammed jibu    | 09067636158   |
+| LAG2247895 | Mr Sunday store           | 3, Agbedina street isheri berger                          | Emmanuel ugochukwu | 08000000000 |
+| LAG2245888 | Iya mida                  | 3, alanu street ojodu berger                              | Iya mida         | 07052851676   |
+| LAG2247894 | Tina stores               | 2, Agbedina street isheri berger                          | Silver           | 08147440280   |
+| LAG2212320 | Rahuma store              | 12, ishola bello akiode                                   | Mrs Fatima usain | 08086864773   |
+| LAG2247902 | Olafathia store           | 8, bankole street isheri berger                           | Mrs nasirudeen   | 07081861537   |
+| LAG2212327 | D young foodstuffs        | 15, ogunriver isheri berger                               | Mercy            | 8054873434    |
+| LAG2212338 | Dummy stores              | 38b ogunriver isheri berger                               | Mrs halim        | 08033165906   |
+| LAG2212325 | Mohammed yahusa kiosk     | 24, magodo road isheri berger                             | Mohammed yahusa  | 07019417363   |
+| LAG2245887 | Sanucon store             | 13/15 karimu laka street egbeda                           | Quadri salau     | 07066753506   |
+| LAG2245889 | Nikky provision store     | 41, ifelodun street off oko oba road Agege                | Mrs Nike Akinboye| 09035855569   |
+| IKJ0141   | Olatunji store            | 46, Budland, Gramma sch, Ojodu, Ikeja                     | Funmilayo        | 09136895624   |
+| LAG2253292 | Mum Nife store            | 24, bankole street isheri berger                          | Mrs abudu        | 08137933795   |
+| LAG3898992 | Joseph store              | 5 odozi street ojodu berger                               | Mr Uzor Joseph   | 9032779909    |
+| LAG3898994 | Goodness and the mercy    | 4 Sadiku street, oniwaya market agege                     | Mum Ruth         | 8067656706    |
+| LAG3793170 | God first store           | 39 old oko oba road agege                                 | Mrs Laguju       | 8064113791    |
+| LAG3898995 | Iya Rita store            | 28 oremeta street ojodu                                   | Mrs Obigbo Rita  | 8100667839    |
+| LAG3898997 | Oluwalogbo store          | 47, Oremeta Street Ojodu Berger                           | Turah            | 8142662101    |
+| ALI0174   | Mrs Agabi stores          | Bt 101, 34 road k close gowon estate, Adjacent to Dee joyce school, Egbeda | Mrs Agabi | 8057422667 |
+| ALI0181   | Oyin & bimbo stores       | Bt block 100, Police block gowon estate, Adjacent to 5th avenue road, Egbeda | Mrs yahaya | 08140325592 |
+| ALI0184   | Mummy tina store          | 12, Karimu laka, Adjacent to alhaji razaq street, Egbeda | Ajokubi Ngozi   | 8033312374    |
+| ALI0209   | GRACIOUS SUPERMARKET      | 24, Ogunlana, Opp okla royal hotel, Alimosho               | Mrs olabisi      | 8030448068    |
+| ALI0211   | God's time ventures       | Block 99 Gowon estate H close egbeda                       | Mrs joy peter    | 08136590697   |
+| ALI0214   | SUNFEL STORES             | 3, Destiny avenue, Adj to reedeem Christian church of God, Alimosho, Egbeda | Deby Sunfel | 8033464818 |
+| IKJ0137   | Yahusa kiosk              | 21, Oremeta, Opp celestial church of Christ, Berger, Ikeja | Yahusa           | 8165263520    |
+| IKJ0130   | Salisu store              | 45, Oremeta, Opp micheal's montessori sch, Berger, Ikeja  | Salisu Salisu    | 8000000000    |
+| IKJ0131   | Iya Alaje store           | 29, Irepodun, Irepodun, Akiode, Ikeja                     | Iya Alaje lya Alaje | 7034724971 |
+| IKJ0132   | Mummy faridat store       | 24/45, Shobanire, Shobanire, Berger, Ikeja                | Mum faridat      | 8020943085    |
+| IKJ0133   | Mummy p store             | 5, Irepodun, Irepodun, Akiode, Ikeja                      | Iya p            | 8080099297    |
+| IKJ0134   | Omo ayo stores            | 19, Irepodun, Irepodun, Akiode, Ikeja                     | Mrs esther ayo   | 8165589430    |
+| IKJ0135   | Mummy tomiwa store        | 27, Irepodun, Irepodun, Akiode, Ikeja                     | Mum tomiwa       | 8083223141    |
+| IKJ0136   | Mrs rahmat store          | 11, Irepodun, Irepodun, Akiode, Ikeja                     | Mrs rahmat       | 8066618028    |
+| IKJ0139   | Mrs Musa store            | 19, Irepodun, Irepodun, Akiode, Ikeja                     | Mrs musa         | 8066803643    |
+| IKJ0144   | Usman kiosks              | 15, Shobanire, Opp the truth house church/beside ochonsky bar, Berger, Ikeja | Usman | 08052192938 |
+| IKJ0153   | Usman kiosks              | 17, Odozi, Opp 22A Odozi, Odozi, Ikeja                     | Usman            | 09167151545   |
+| IKJ0078   | ZANGO STORE               | 27, Illo street ipodo, Ikeja, Ipodo, Ikeja                | Mr sanni Auwal   | 7065978145    |
+
+
+
+```
 | Code      | Name                                    | Address                                                  | Contact Person           | Contact Number(s)                   | Location         |
 |-----------|-----------------------------------------|----------------------------------------------------------|--------------------------|-------------------------------------|------------------|
 | LAG2161489| 234 supermarket (Larger Grocer)         | RA 3, obafalabi street ojodu berger                       | Mrs Patricia             | (8036755401)                        | Lagos, LA 50001  |
@@ -124,3 +178,4 @@
 | LAG3618850| Victoria store (Small Grocery)        | 43, old oko oba road Agege                             | Victoria                        | (8106044044)                   | Lagos, LA 50001  |
 | IKJ0137   | Yahusa kiosk (House Shop/Kiosk)       | 21, Oremeta, Opp celestial church of Christ, Ikeja      | Yahusa                          | (8165263520)                   | Lagos, LA 50001  |
 | IKJ0078   | ZANGO STORE (Larger Grocer)           | 27, Illo street ipodo, Ikeja                            | Mr sanni Auwal                  | (7065978145)                   | Lagos, LA 50001  |
+```
