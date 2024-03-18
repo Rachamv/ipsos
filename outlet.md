@@ -1,6 +1,6 @@
 # Table Tops
-|  S/N | Store Name               | Address                                                   | Contact Name     | Phone         | 
-|------|--------------------------|-----------------------------------------------------------|------------------|----------------|
+|  S/N | Store Name               | Address                                                   | Contact Name     | Phone         | 2go| 
+|------|--------------------------|-----------------------------------------------------------|------------------|----------------|---|
 | 1 | Amisun kiosk             | RA 26 seriki aro street ikeja Lagos                     | Amisun           | 7037610678     | 2g0
 | 2 | Adejoke ventures         | 23, ogunriver isheri berger                             | Mrs Adejoke      | 07081234123   
 | 3 | Ige ventures             | 19, ogunriver isheri berger                             | Mrs odunranti ige| 08028772689    
