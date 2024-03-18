@@ -1,12 +1,12 @@
 # Table Tops
-|  S/N | Store Name               | Address                                                   | Contact Name     | Phone          
-|------|--------------------------|-----------------------------------------------------------|------------------|----------------
-| 1 | Amisun kiosk             | RA 26 seriki aro street ikeja Lagos                     | Amisun           | 7037610678     
+|  S/N | Store Name               | Address                                                   | Contact Name     | Phone         | 
+|------|--------------------------|-----------------------------------------------------------|------------------|----------------|
+| 1 | Amisun kiosk             | RA 26 seriki aro street ikeja Lagos                     | Amisun           | 7037610678     | 2g0
 | 2 | Adejoke ventures         | 23, ogunriver isheri berger                             | Mrs Adejoke      | 07081234123   
 | 3 | Ige ventures             | 19, ogunriver isheri berger                             | Mrs odunranti ige| 08028772689    
 | 4 | Iya mida                 | 3, alanu street ojodu berger                            | Iya mida         | 07052851676    
 | 5 | Iyawo mola store         | Shop ten oniwaya main market agege lagos                | Iyawo mola       | 8000000000     
-| 6 | Iya Alaje store          | 29, Irepodun, Irepodun, Akiode, Ikeja, Ikeja            | Iya Alaje        | 7034724971    
+| 6 | Iya Alaje store          | 29, Irepodun, Irepodun, Akiode, Ikeja, Ikeja            | Iya Alaje        | 7034724971    | 2go
 | 7 | Joseph store             | 5 odozi street ojodu berger                             | Mr Uzor Joseph   | 9032779909    
 
 
