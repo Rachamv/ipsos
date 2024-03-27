@@ -49,6 +49,19 @@ Rach@4806595
 - **LAG2253294**
   - **LAG2253294 - God's power store (Small Grocery): RA**
     - 4A bankole street isheri berger Mrs taiwo :(08188445958) LAGOS, LA 50001
+- **LAG2245893**
+  - **Name**: Mohammed Yahusa kiosk (Kiosk)
+  - **Address**: RA 24, Magodo Road Isheri Berger Mohammed Yahusa :(07019417363)
+ **LAG2212341**
+  - **Name**: Innoso enterprises (Small Grocery)
+  - **Address**: RA 24, Ogunriver Isheri Berger Nwoke Sunday :(09092295682)
+- **IKJ0150**
+  - **Name**: Joyce store (Small Grocery)
+  - **Address**: RA 1, Zinsou, Ikeja  Joyce Joyce :(8076247900)
+- **LAG2247897**
+  - **Name**: Iya Bose store (Small Grocery)
+  - **Address**: RA 19, Daramola Street Isheri Berger Mrs. Bose :(07036086751)
+
 
 
 # Akiode
@@ -61,5 +74,8 @@ Rach@4806595
 - **LAG2212319**
   - **LAG2212319 - Emmanuel store (Small Grocery): RA**
     - 11, ishola bello akiode berger Mr emmanuel :(08060357805) LAGOS, LA 50001
+
+
+
 
 
