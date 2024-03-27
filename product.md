@@ -27,7 +27,7 @@
 |---------------------------------------------------------------------|---------------------------------------------------------|-----------------|-----------|-----------|
 | AMAZING DAY MAIZE SOYA AND CASSAVA 50G                              |                                                         | Breakfast Cereal|           |           |
 | GOLDEN MORN INSTANT CORN SOYA IRON & VITAMIN CEREAL 450G SACHET     |                                                         | Breakfast Cereal|           |           |
-| GOLDEN MORN MAIZE SOYA PROTEIN CEREAL 45G SACHET                    |                                                         | Breakfast Cereal|           |           |
+| GOLDEN MORN MAIZE SOYA PROTEIN CEREAL 45G SACHET                    |                                                         | Breakfast Cereal|   250     |           |
 | KELLOGG'S COCO POPS WHEAT CHOCOLATE MINERALS & 11 VITAMINS 28G SACHET|                                                        | Breakfast Cereal|           |           |
 | KELLOGG'S MOONS & STAR 49.5GMS                                      |                                                         | Breakfast Cereal|           |           |
 | NASCO CORN ORIGINAL 7 VITAMINS & 7 MINERALS CORN 30G SACHET                                      |                                                         | Breakfast Cereal|           |           |
@@ -35,15 +35,15 @@
 
 | Product                             | Description       | Category    | New Price | Old Price |
 |-------------------------------------|-------------------|-------------|-----------|-----------|
-| DEVON KING'S PURE VEGETABLE OIL 1LITRE |                   | Edible Oil  |           |           |
+| DEVON KING'S PURE VEGETABLE OIL 1LITRE |                | Edible Oil  |           |           |
 | GOLDEN TERRA 40ML                   |                   | Edible Oil  |           |           |
-| POWER OIL SACHET 70ML               |                   | Edible Oil  |           |           |
+| POWER OIL SACHET 45ML               |                   | Edible Oil  |   200     |           |
 
 | Product                                    | Description                    | Category | New Price | Old Price |
 |--------------------------------------------|--------------------------------|----------|-----------|-----------|
-| Blue Band Spread For Bread (Light Blue) 250G Tub |                               | Spread   |           |           |
-| Golden Penny Spread 450G Tub               |                               | Spread   |           |           |
-| Golden Penny Mayonnaise  15G            |                               | Spread   |           |           |
+| Blue Band Spread For Bread (Light Blue) 250G Tub |                          | Spread   |           |           |
+| Golden Penny Spread 450G Tub               |                                | Spread   |           |           |
+| Golden Penny Mayonnaise  15G            |                                   | Spread   |           |           |
 
 | Product                                          | Description                                | Category          | New Price | Old Price |
 |--------------------------------------------------|--------------------------------------------|-------------------|-----------|-----------|
@@ -63,23 +63,23 @@
 |--------------------------------------------------|--------------------------------------------|----------|-----------|-----------|
 | CHIKKI CHICKEN FLAVOR 100 GR                     |                                            | Noodles  |           |           |
 | CHIKKI CHICKEN FLAVOUR 70 GR                     |                                            | Noodles  |           |           |
-| GOLDEN PENNY CHICKEN FLAVOUR 70G                 |                                            | Noodles  |           |           |
-| GOLDEN PENNY GOAT MEAT PEPPER SOUP FLAVOR 70 GR |                                       | Noodles         |           |           |
-| GOLDEN PENNY INSTANT NOODLES JOLLOF CHICKEN FLAVOUR 70G |                              | Noodles         |           |           |
-| INDOMIE CHICKEN FLAVOR NOODLES 120 GR            |                                            | Noodles  |           |           |
+| GOLDEN PENNY CHICKEN FLAVOUR 70G                 |                                            | Noodles  |  180         |           |
+| GOLDEN PENNY GOAT MEAT PEPPER SOUP FLAVOR 70 GR |                                             | Noodles  |  200         |           |
+| GOLDEN PENNY INSTANT NOODLES JOLLOF CHICKEN FLAVOUR 70G |                                     | Noodles  |  180      |           |
+| INDOMIE CHICKEN FLAVOR NOODLES 120 GR            |                                            | Noodles  | 450-500   |           |
 | INDOMIE CHICKEN FLAVOR NOODLES 280 GR            |                                            | Noodles  |           |           |
 | INDOMIE CHICKEN FLAVOR NOODLES 70 GR             |                                            | Noodles  |           |           |
-| INDOMIE ONION CHICKEN FLAVOR NOODLES 70 GR       |                                            | Noodles  |           |           |
+| INDOMIE ONION CHICKEN FLAVOR NOODLES 70 GR       |                                            | Noodles  | 300       |           |
 | MINIMIE REGULAR CHICKEN 70GMS                    |                                            | Noodles  |           |           |
 | MIMEE NOODLES CHICKEN FLAVOUR 70 GMS           |                                       |  Noodles        |           |           |
 
 | Product                                    | Description                         | Category     | New Price | Old Price |
 |--------------------------------------------|-------------------------------------|--------------|-----------|-----------|
-| Astymin Syrup 200ml                       |                                     | NutriPharama|           |  2800         |
-| EMVITE MULTIVITAMIN SYRUP 100ML           |                                     | NutriPharama|           |   1000        |
-| LIQUID IRON BOTTLE 200ML                  |                                     | NutriPharama|           |           |
-| BUNTO MULTIVITAMINS AND MINERAL 30 CAPSULES|                                   | NutriPharama|           |           |
-| LIQUID IRON BOTTLE 200ML                  |                                     | NutriPharama|           |           |
+| Astymin Syrup 200ml                        |                                     | NutriPharama|            |  2800     |
+| EMVITE MULTIVITAMIN SYRUP 100ML            |                                     | NutriPharama|            |   1000    |
+| LIQUID IRON BOTTLE 200ML                   |                                     | NutriPharama|            |           |
+| BUNTO MULTIVITAMINS AND MINERAL 30 CAPSULES|                                     | NutriPharama|            |           |
+| LIQUID IRON BOTTLE 200ML                   |                                     | NutriPharama|            |           |
 
 
 | Product            | Description    | Category  | New Price | Old Price |
