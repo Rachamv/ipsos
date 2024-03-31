@@ -28,3 +28,4 @@
 | 26  | Akiode  | LAG2212315 | Chidon stores         | 11, ishola bello akiode berger                                                                                                                          | Mr Chidon :(09011443211) |
 | 27  | Akiode  | LAG2212319 | Emmanuel store        | 11, ishola bello akiode berger                                                                                                                          | Mr Emmanuel :(08060357805) |
 | 28  | Akiode  | LAG2212320 | Rahuma store          | RA 12, Ishola Bello Akiode                                                                                                                               | Mrs Fatima Usain :(08086864773) |
+| 29 | Egbeda  | ALI0181  | Oyin & Bimbo store | Bt Block 100, Police Block Gowon Estate, Adjacent to 5th Avenue Road, Egbeda, Alimosho, Alimosho Mrs Yahaya  |(08140325592) |
